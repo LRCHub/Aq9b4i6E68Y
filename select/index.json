@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "まぼろし大好きっ!",
+  "base_artist": "Shinsei kamattechan",
+  "createdAt": "2025-12-23T21:03:58.445936Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まぼろし大好きっ!",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_まぼろし大好きっ!_神聖かまってちゃん.txt"
+    }
+  ]
+}
